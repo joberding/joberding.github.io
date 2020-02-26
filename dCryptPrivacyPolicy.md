@@ -25,7 +25,7 @@ Unless otherwise specifically indicated, dCrypt is not  generally not available 
 This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, or any third party operating any site or service to which the Services link. The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our affiliates. We encourage you to learn about third-parties’ privacy and security policies before providing them with information.
 
 ### Additional Information or Assistance
-If you wish to contact dCrypt to communicate about privacy related issues, or for any reason at all, you may do so in one of two ways: (1) mail to: Privacy Policy c/o dCrypt, 1535 Mission Street, Suite A, San Francisco, CA 94103; (2) email to: dCryptPrivacy@in-progress.com
+If you wish to contact dCrypt to communicate about privacy related issues, or for any reason at all, you may do so in one of two ways: (1) mail to: Privacy Policy c/o dCrypt, 1535 Mission Street, Suite A, San Francisco, CA 94103; (2) email to: Privacy@dCrypt.app
 
 ### Privacy Policy Changes
 *dCrypt may make material changes to this privacy policy from time to time. Therefore, you should periodically visit this page to view the current privacy policy. In the event of a material change to this privacy policy, dCrypt will send an email advising of the change to all persons whose email addresses we have collected and retained pursuant to the terms set forth above, or by posting notice of the changes on this site.*
