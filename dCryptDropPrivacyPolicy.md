@@ -29,5 +29,6 @@ If you wish to contact dCrypt Drop to communicate about privacy related issues, 
 
 ### Privacy Policy Changes
 *dCrypt Drop may make material changes to this privacy policy from time to time. Therefore, you should periodically visit this page to view the current privacy policy. In the event of a material change to this privacy policy, dCrypt Drop will send an email advising of the change to all persons whose email addresses we have collected and retained pursuant to the terms set forth above, or by posting notice of the changes on this site.* 
+
 February 22, 2020
 
