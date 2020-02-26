@@ -1,3 +1,8 @@
+---
+layout: post
+title: Dappity Privacy Policy
+---
+
 # Dappity Privacy Policy
 
 ## Dappity respects the privacy of our users
