@@ -20,7 +20,7 @@ When a Blockstack user logs into a Blockstack app, that data is retained at the 
 
 Only multiplayer apps (apps that allow data sharing) have access to data retained on the Blockstack authentication.
 
-\*Blockstack refers to Blockstack PBC. For more information about Blockstack and the  Blockstack PBC privacy policy, please visit the Blockstack site: https://blockstack.org/legal/privacy-policy\*
+\*Blockstack refers to Blockstack PBC. For more information about Blockstack and the  Blockstack PBC privacy policy, please visit the Blockstack site: https://blockstack.org/legal/privacy-policy \*
 
 ## Sections
 
