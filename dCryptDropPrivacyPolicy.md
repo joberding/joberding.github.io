@@ -28,6 +28,6 @@ This Privacy Policy does not address, and we are not responsible for, the privac
 If you wish to contact dCrypt Drop to communicate about privacy related issues, or for any reason at all, you may do so in one of two ways: (1) mail to: Privacy Policy c/o dCrypt Drop, 1535 Mission Street, Suite A, San Francisco, CA 94103; (2) email to: Privacy@dCrypt.app
 
 ### Privacy Policy Changes
-*dCrypt Drop may make material changes to this privacy policy from time to time. Therefore, you should periodically visit this page to view the current privacy policy. In the event of a material change to this privacy policy, dCrypt Drop will send an email advising of the change to all persons whose email addresses we have collected and retained pursuant to the terms set forth above, or by posting notice of the changes on this site. 
-February 22, 2020*
+*dCrypt Drop may make material changes to this privacy policy from time to time. Therefore, you should periodically visit this page to view the current privacy policy. In the event of a material change to this privacy policy, dCrypt Drop will send an email advising of the change to all persons whose email addresses we have collected and retained pursuant to the terms set forth above, or by posting notice of the changes on this site.* 
+February 22, 2020
 
